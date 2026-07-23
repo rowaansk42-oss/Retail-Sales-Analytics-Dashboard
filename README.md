@@ -1,4 +1,6 @@
 <img width="612" height="344" alt="Dashboard png" src="https://github.com/user-attachments/assets/b18b2037-f6f7-47c4-a3d1-7455d4c01160" />
+
+
 # Retail-Sales-Analytics-Dashboard
 Interactive MIS Dashboard built using Power BI and Excel for retail sales performance analysis.
 
